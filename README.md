@@ -49,4 +49,14 @@ Web, mobil ve oyun tarafında bir şeyler yapıyorum. Genelde TypeScript, PHP (L
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,php,laravel,go,cs,unity,python,postgres,redis,docker,git&perline=7" />
 </p>
 
+### İstatistikler
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=atss0&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=7FDBFF&icon_color=7FDBFF&locale=tr" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atss0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=7FDBFF&locale=tr" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=atss0&theme=tokyonight&hide_border=true&background=0f2027&ring=7FDBFF&fire=7FDBFF&currStreakLabel=7FDBFF&locale=tr" />
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,50:203a43,100:0f2027&section=footer" width="100%"/>
